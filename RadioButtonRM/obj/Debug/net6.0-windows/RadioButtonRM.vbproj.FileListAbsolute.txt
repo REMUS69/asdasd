@@ -1,0 +1,17 @@
+D:\VisualStudioRepos\RadioButtonRM\bin\Debug\net6.0-windows\RadioButtonRM.exe
+D:\VisualStudioRepos\RadioButtonRM\bin\Debug\net6.0-windows\RadioButtonRM.deps.json
+D:\VisualStudioRepos\RadioButtonRM\bin\Debug\net6.0-windows\RadioButtonRM.runtimeconfig.json
+D:\VisualStudioRepos\RadioButtonRM\bin\Debug\net6.0-windows\RadioButtonRM.dll
+D:\VisualStudioRepos\RadioButtonRM\bin\Debug\net6.0-windows\RadioButtonRM.pdb
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.Form1.resources
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.Form2.resources
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.vbproj.GenerateResource.cache
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.AssemblyInfo.vb
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.vbproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.dll
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\refint\RadioButtonRM.dll
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.pdb
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\RadioButtonRM.genruntimeconfig.cache
+D:\VisualStudioRepos\RadioButtonRM\obj\Debug\net6.0-windows\ref\RadioButtonRM.dll
